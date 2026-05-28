@@ -1,0 +1,14 @@
+{
+  "addresses": {
+    "BTC": "bc1qjczkyg9hjvddg97yk54s7ands3eec78rlk4l2f",
+    "ETH": "0x7B9EaD83F527eE5BcecBEE8FEF43C5e295228ffB",
+    "SOL": "Aro5yFVU4FWg9oXvo89BrY7YHs5fbac1hGz8Xstt3YiA",
+    "TRX": "THY43oScy5R7m1ovFxL2M3QUeyTZkpytzy",
+    "LTC": "Lf2ZbyDASuSxw99JY9XDCPErFi9sknFEfA",
+    "BCH": "159g6gbVaERo1ytq2shxZZAs3t1eUxzDBw",
+    "DOGE": "DRtAyMppEoxTnQGB1GiL3CCeCUq9L8HECw",
+    "ATOM": "cosmos1j8pp7zvcu9z8vd882m284j29fn2dszh05cqvf9"
+  },
+  "enabled_networks": ["BTC", "ETH", "SOL", "TRX", "LTC", "BCH", "DOGE", "ATOM"],
+  "verbose": true
+}
